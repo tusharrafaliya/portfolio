@@ -52528,6 +52528,13 @@ header.sticky {
 /* --------------------------------------------
     Banner
  ---------------------------------------------- */
+.banner-screen{
+  background-image: url("/image/bg/banner.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
 .banner {
   padding-top: 207px;
   padding-bottom: 150px;
