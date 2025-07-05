@@ -1,8 +1,8 @@
 /*----------------------------------------------------------------------
-    Template Name: Ashik Tushar Personal Portfolio HTML Template
-    Template URI: https://ashik-html.vercel.app/
-    Author: Codeefly
-    Author URI:  https://codeefly.net/
+    Template Name: Tushar Personal Portfolio HTML Template
+    Template URI: 
+    Author: Tushar
+    
     Version: 1.0
 
     Note: This is Main Style CSS File.
@@ -51147,7 +51147,7 @@ h5.preloader-text {
   }
 }
 h5.preloader-text::after {
-  content: "Ashik";
+  content: "Tushar";
   position: absolute;
   left: 0;
   top: 0;
@@ -52557,7 +52557,7 @@ header.sticky {
   position: relative;
   /* background-image: url("cbg/hero_bg.svg"); */
 
-  /* background-image: url(https://matias.digitalnexuspro.com/wp-content/uploads/2024/04/banner-bg.png);
+  /* background-image: url(https://matias.digitalnexuspro.com/wp-content/uploads/2025/04/banner-bg.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
